@@ -6,9 +6,11 @@ This repo is a place where I keep my notes about all tech related books I've rea
 |---|---|---|
 |[![alt text][spring_in_action_sixth_edition]](./spring_in_action_sixth_edition/)|**[Spring in Action, Sixth Edition](./spring_in_action_sixth_edition/)**<br>Authors: **Craig Walls**<br>Publication date: **March 2022**<br>Published by: **Manning Publications**<br>Topics: **Spring**<br><br>Description: <br>This book shows how to use different parts of Spring which is a very famous Java Framework for building web application (mostly) and more.  | :open_book: [^in_progress] |
 |[![alt text][object_design_style_guide]](./object_design_style_guide/) | **[Object Design Style Guide](./object_design_style_guide/)**<br>Authors: **Matthias Noback**<br>Publication date: **January 2020**<br>Published by: **Manning Publications**<br>Topics: **Object-Oriented Design**<br><br>Description: <br>This book outlines professional techniques for writing OO code with practical examples written in pseudocode. Presented techniques can be used to write effective OO code. | :open_book: [^in_progress] |
+| [![alt text][grokking_algorithms]](./grokking_algorithms/) |  **[Grokking Algorithms](./grokking_algorithms/)**<br>Authors: **Aditya Bhargava**<br>Publication date: **May 2016**<br>Published by: **Manning Publications**<br>Topics: **Algorithms**<br><br>Description: <br>A friendly explanation of the most popular algorithms | :open_book: [^in_progress] |
 
 
 [spring_in_action_sixth_edition]: ./assets/spring_in_action_sixth_edition.jpg "Spring in Action, Sixth Edition"
 [object_design_style_guide]: ./assets/object_design_style_guide.jpg "Object Design Style Guide"
+[grokking_algorithms]: ./assets/grokking_algorithms.jpg "Grokking Algorithms"
 
 [^in_progress]: :open_book: means that I'm still reading this book
